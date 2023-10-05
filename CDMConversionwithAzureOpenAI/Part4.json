@@ -1,0 +1,44 @@
+{
+    "part_id": "P5678",
+    "part_name": "Fuel Pump",
+    "manufacturer": "General Electric",
+    "weight_kg": 8.2,
+    "dimensions_cm": {
+        "length": 15.5,
+        "width": 8.2,
+        "height": 4.8
+    },
+    "material_type": "Stainless Steel",
+    "quantity_available": 10,
+    "price_usd": 1200.00,
+    "certifications": [
+        {
+            "name": "FAA",
+            "type": "Airworthiness Certificate",
+            "number": "12345"
+        },
+        {
+            "name": "EASA",
+            "type": "Type Certificate",
+            "number": "67890"
+        }
+    ],
+    "compatible_aircrafts": [
+        {
+            "aircraft_type": "Boeing 737",
+            "model_number": "737-800",
+            "serial_number_range": {
+                "start": "1000",
+                "end": "2000"
+            }
+        },
+        {
+            "aircraft_type": "Boeing 747",
+            "model_number": "747-400",
+            "serial_number_range": {
+                "start": "3000",
+                "end": "4000"
+            }
+        }
+    ]
+}

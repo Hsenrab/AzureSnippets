@@ -1,0 +1,44 @@
+{
+    "part_number": "AP5678",
+    "about": "Landing Gear Strut",
+    "seller": "Airbus",
+    "weight": 35.2,
+    "dimensions": {
+        "length": 15.5,
+        "width": 8.2,
+        "height": 4.8
+    },
+    "material": "Aluminum",
+    "quantity": 25,
+    "price": 5000.00,
+    "certifications": [
+        {
+            "name": "FAA",
+            "type": "Airworthiness Certificate",
+            "number": "12345"
+        },
+        {
+            "name": "EASA",
+            "type": "Type Certificate",
+            "number": "67890"
+        }
+    ],
+    "compatibility": [
+        {
+            "aircraft_type": "Airbus A320",
+            "model_number": "A320-200",
+            "serial_number_range": {
+                "start": "1000",
+                "end": "2000"
+            }
+        },
+        {
+            "aircraft_type": "Airbus A321",
+            "model_number": "A321-200",
+            "serial_number_range": {
+                "start": "3000",
+                "end": "4000"
+            }
+        }
+    ]
+}

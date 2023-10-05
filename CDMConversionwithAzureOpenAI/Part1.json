@@ -1,0 +1,14 @@
+{
+    "part_number": "AP1234",
+    "description": "Engine Fan Blade",
+    "manufacturer": "Boeing",
+    "weight": 12.5,
+    "dimensions": {
+        "length": 10.5,
+        "width": 5.2,
+        "height": 2.8
+    },
+    "material": "Titanium",
+    "quantity": 50,
+    "price": 2500.00
+}
